@@ -6,6 +6,21 @@
 
 
 
+## Sections
+
+[Resources](./2 - resources.md)
+
+[Exercises](./6 - exercises.md)
+
+[Resources](./9 - competencies.md)
+# Overview
+
+
+## Intention of module
+
+
+
+
 
 
 
