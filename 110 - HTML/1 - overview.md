@@ -6,6 +6,7 @@
 
 
 
+## Sections
 
-
+[Resources](./2 - resources.md)
 
