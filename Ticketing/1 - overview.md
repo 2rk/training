@@ -13,3 +13,14 @@
 [Exercises](./6 - exercises.md)
 
 [Resources](./9 - competencies.md)
+
+
+## Topics to include
+
+Definitions
+
+Ticket grouping 
+- Epic (grouping)
+- Feature/Bug (what the client approves)
+- Task (what we work on)
+
